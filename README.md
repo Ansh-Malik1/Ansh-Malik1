@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ansh Malik</h1>
-<h3 align="center">A passionate AIML Engineer and MERN developer from India</h3>
+<h3 align="center">A passionate AIML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh-malik1&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-malik1" /> </p>
 
 - 🔭 I’m currently working on **Devloping my skills**
 
-- 💬 Ask me about **React , CSS , HTML , Express , Nodejs , Python , Machine Learning , Data Science**
+- 💬 Ask me about **Machine Learning , Deep Learning , Computer Vision , Transformers, Python Programming, Data Science**
 
-- 📫 How to reach me **anshmalik718@gmail.com**
+- 📫 How to reach me **anshmalik845@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
